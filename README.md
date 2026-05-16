@@ -39,26 +39,26 @@ Narrated with Google AI Voices
 Narrated with Google AI Voices  
 https://play.google.com/store/audiobooks/details?id=AQAAAEBaohniUM
 ---
+
 ## 🎧 Audiobook Édition française
 ### **L’Onde de l’IA : Comment l’intelligence artificielle va redessiner notre monde — Free Audiobook (Google Play Books)**  
 Narrated with Google AI Voices  
 https://play.google.com/store/audiobooks/details?id=AQAAAEBajhzOVM
-
 ---
 
 ## 📚 Book Editions
 
 ### **English Edition — AI Wavefront**  
 Amazon Kindle & Paperback  
-🔗 *([Available here](https://www.amazon.com/dp/B0GF7GNMP5))*
+🔗 https://www.amazon.com/dp/B0GF7GNMP5
 
 ### **Italian Edition — AI Tsunami**  
 Amazon Kindle & Paperback  
-🔗 *([Disponibile qui](https://www.amazon.it/dp/B0GDXRR4ST))*
+🔗 https://www.amazon.it/dp/B0GDXRR4ST
 
 ### **French Edition — L’Onde de l’IA**  
 Amazon Kindle & Paperback  
-🔗 *([Available here](https://www.amazon.com/dp/B0GHSRP818))*
+🔗 https://www.amazon.com/dp/B0GHSRP818
 
 ---
 
@@ -74,7 +74,12 @@ Articles, essays, and behind‑the‑scenes reflections
 
 ### GitHub  
 This page  
-🔗 *(insert repo link)*
+🔗 https://github.com/vamoruso/AITsunamiWavefront/
+
+
+### Facebook  
+This page  
+🔗 https://www.facebook.com/AItsunamibook/
 
 ---
 
