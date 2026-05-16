@@ -2,7 +2,7 @@
 ### How Artificial Intelligence Will Reshape Life, Power, and Society  
 **By Vincenzo Amoruso**
 
-Welcome to the official hub for **AI Wavefront**, the multi‑format project exploring how Artificial Intelligence is transforming human behavior, culture, identity, and decision‑making.
+Welcome to the official hub for **AI Tsunami Wavefront**, the multi‑format project exploring how Artificial Intelligence is transforming human behavior, culture, identity, and decision‑making.
 
 This page collects **all editions**, **audiobooks**, **translations**, and **resources** related to the book.
 

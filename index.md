@@ -1,13 +1,13 @@
 ---
-title: "AI Wavefront — Official Hub"
+title: "AI Tsunami Wavefront — Official Hub"
 layout: default
 ---
 
-# 🌊 AI Wavefront — Official Hub  
+# 🌊 AI Tsnumami Wavefront — Official Hub  
 ### How Artificial Intelligence Is Reshaping Life, Power, and Society  
 **By Vincenzo Amoruso**
 
-Welcome to the official website for **AI Wavefront**, the multi‑format project exploring how Artificial Intelligence is transforming human behavior, culture, identity, and decision‑making.
+Welcome to the official website for **AI Tsunami Wavefront**, the multi‑format project exploring how Artificial Intelligence is transforming human behavior, culture, identity, and decision‑making.
 
 This page collects **all editions**, **audiobooks**, **translations**, and **resources** related to the book.
 
@@ -32,27 +32,38 @@ AI Wavefront offers a clear, accessible, and deeply human perspective on the fut
 
 ---
 
-## 🎧 Audiobook Editions
+## 🎧 Audiobook English Editions
 
 ### **AI Wavefront — Free Audiobook (Google Play Books)**  
 Narrated with Google AI Voices  
 🔗 https://play.google.com/store/audiobooks/details?id=AQAAAEBaqkPqCM
+---
 
+## 🎧 Audiobook Edizione Italiana
+### ** AI Tsunami: Come l'intelligenza artificiale rimodellerà la vita, il potere e la società — Free Audiobook (Google Play Books)**  
+Narrated with Google AI Voices  
+https://play.google.com/store/audiobooks/details?id=AQAAAEBaohniUM
+---
+
+## 🎧 Audiobook Édition française
+### **L’Onde de l’IA : Comment l’intelligence artificielle va redessiner notre monde — Free Audiobook (Google Play Books)**  
+Narrated with Google AI Voices  
+https://play.google.com/store/audiobooks/details?id=AQAAAEBajhzOVM
 ---
 
 ## 📚 Book Editions
 
 ### **English Edition — AI Wavefront**  
 Amazon Kindle & Paperback  
-🔗 *Insert Amazon link*
+🔗 https://www.amazon.com/dp/B0GF7GNMP5
 
 ### **Italian Edition — AI Tsunami**  
 Amazon Kindle & Paperback  
-🔗 *Insert Amazon link*
+🔗 https://www.amazon.it/dp/B0GDXRR4ST
 
 ### **French Edition — L’Onde de l’IA**  
 Amazon Kindle & Paperback  
-🔗 *Insert Amazon link*
+🔗 https://www.amazon.com/dp/B0GHSRP818
 
 ---
 
@@ -60,15 +71,20 @@ Amazon Kindle & Paperback
 
 ### TikTok (BookTok)  
 Short videos, concepts, and visual storytelling  
-🔗 *Insert TikTok link*
+🔗 *(https://www.tiktok.com/@aitsunamibook)*
 
 ### Medium  
 Articles, essays, and behind‑the‑scenes reflections  
-🔗 *Insert Medium link*
+🔗 *(insert Medium link)*
 
 ### GitHub  
 This page  
-🔗 *Insert repo link*
+🔗 https://github.com/vamoruso/AITsunamiWavefront/
+
+
+### Facebook  
+This page  
+🔗 https://www.facebook.com/AItsunamibook/
 
 ---
 
@@ -84,7 +100,7 @@ This page
 
 ---
 
-## 🛠️ Resources & Extras
+## 🛠️ Tools & Resources
 
 - Prompts used for video creation  
 - AI‑generated experiments  
@@ -97,7 +113,7 @@ This page
 ## ✉️ Contact
 
 For collaborations, interviews, or speaking engagements:  
-📧 *Insert email*
+📧 *(aitsunamibook@gmail.com)*
 
 ---
 
@@ -105,3 +121,5 @@ For collaborations, interviews, or speaking engagements:
 
 If you find this work meaningful, consider starring this repository.  
 It helps visibility and supports future research and creative projects.
+
+
