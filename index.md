@@ -55,15 +55,15 @@ Narrated with Google AI Voices
 
 ### **English Edition — AI Wavefront**  
 Amazon Kindle & Paperback  
-🔗 https://www.amazon.com/dp/B0GF7GNMP5
+🔗 [https://www.amazon.com/dp/B0GF7GNMP5](https://www.amazon.com/dp/B0GF7GNMP5)
 
 ### **Italian Edition — AI Tsunami**  
 Amazon Kindle & Paperback  
-🔗 https://www.amazon.it/dp/B0GDXRR4ST
+🔗 [https://www.amazon.it/dp/B0GDXRR4ST](https://www.amazon.it/dp/B0GDXRR4ST)
 
 ### **French Edition — L’Onde de l’IA**  
 Amazon Kindle & Paperback  
-🔗 https://www.amazon.com/dp/B0GHSRP818
+🔗 [https://www.amazon.com/dp/B0GHSRP81](https://www.amazon.com/dp/B0GHSRP818)
 
 ---
 
@@ -71,7 +71,7 @@ Amazon Kindle & Paperback
 
 ### TikTok (BookTok)  
 Short videos, concepts, and visual storytelling  
-🔗 *(https://www.tiktok.com/@aitsunamibook)*
+🔗 [https://www.tiktok.com/@aitsunamibo](https://www.tiktok.com/@aitsunamibook)
 
 ### Medium  
 Articles, essays, and behind‑the‑scenes reflections  
@@ -79,12 +79,12 @@ Articles, essays, and behind‑the‑scenes reflections
 
 ### GitHub  
 This page  
-🔗 https://github.com/vamoruso/AITsunamiWavefront/
+🔗 [https://github.com/vamoruso/AITsuna](https://github.com/vamoruso/AITsunamiWavefront/)
 
 
 ### Facebook  
 This page  
-🔗 https://www.facebook.com/AItsunamibook/
+🔗 [https://www.facebook.com/AItsunamib](https://www.facebook.com/AItsunamibook/)
 
 ---
 
