@@ -36,19 +36,19 @@ AI Wavefront offers a clear, accessible, and deeply human perspective on the fut
 
 ### **AI Wavefront — Free Audiobook (Google Play Books)**  
 Narrated with Google AI Voices  
-🔗 https://play.google.com/store/audiobooks/details?id=AQAAAEBaqkPqCM
+🔗 [https://play.google.com/store/audiobooks/details?id=AQAAAEBaqkPqCM](https://play.google.com/store/audiobooks/details?id=AQAAAEBaqkPqCM)
 ---
 
 ## 🎧 Audiobook Edizione Italiana
 ### ** AI Tsunami: Come l'intelligenza artificiale rimodellerà la vita, il potere e la società — Free Audiobook (Google Play Books)**  
 Narrated with Google AI Voices  
-https://play.google.com/store/audiobooks/details?id=AQAAAEBaohniUM
+🔗 [https://play.google.com/store/audiobooks/details?id=AQAAAEBaohniUM](https://play.google.com/store/audiobooks/details?id=AQAAAEBaohniUM)
 ---
 
 ## 🎧 Audiobook Édition française
 ### **L’Onde de l’IA : Comment l’intelligence artificielle va redessiner notre monde — Free Audiobook (Google Play Books)**  
 Narrated with Google AI Voices  
-https://play.google.com/store/audiobooks/details?id=AQAAAEBajhzOVM
+🔗 [https://play.google.com/store/audiobooks/details?id=AQAAAEBajhzOVM](https://play.google.com/store/audiobooks/details?id=AQAAAEBajhzOVM)
 ---
 
 ## 📚 Book Editions
