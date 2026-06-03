@@ -46,6 +46,18 @@ Narrated with Google AI Voices
 https://play.google.com/store/audiobooks/details?id=AQAAAEBajhzOVM
 ---
 
+## 🎧 Versión en audiolibro en español
+### **AI TSUNAMI: Cómo la inteligencia artificial remodelará la vida, el poder y la sociedad — Free Audiobook (Google Play Books)**  
+Narrated with Google AI Voices  
+https://play.google.com/store/audiobooks/details?id=AQAAAEDa8gqywM
+---
+
+## 🎧 Versão em áudio do livro em português
+### **AI TSUNAMI: Como a Inteligência Artificial Vai Remodelar a Vida, o Poder e a Sociedade — Free Audiobook (Google Play Books)**  
+Narrated with Google AI Voices  
+https://play.google.com/store/audiobooks/details?id=AQAAAEA6cW0xRM
+---
+
 ## 📚 Book Editions
 
 ### **English Edition — AI Wavefront**  
